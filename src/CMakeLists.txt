@@ -30,5 +30,6 @@ install(FILES
     protocols/text-input.xml
     protocols/wayland-eglstream-controller.xml
     protocols/dde-globalproperty.xml
+    protocols/xwayland-keyboard-grab-unstable-v1.xml
 
     DESTINATION ${KDE_INSTALL_DATADIR}/deepin-wayland-protocols)
